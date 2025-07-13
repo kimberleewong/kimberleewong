@@ -8,7 +8,7 @@ I am a recent graduate of the Master of [Environmental Data Science program] (ht
 
 🍚 Exploring new restaurants and food 🍚
 
-<img align='right' src='https://github.com/user-attachments/assets/e0a8e300-f185-4c38-8f9f-fa7907d6c68e' width='300' alt="An Octocat dressed like Kimberlee. It has red hair with bangs and is wearing crossbody bag, a pair of overalls, a beret, and black converse. She holds a magnifying glass in an outstretched tentacle. She looks like a cute Parisian Nancy Drew">
+<img align='right' src='octocat.png' width='300' alt="A purple Octocat dressed like Kimberlee. It has blond hair with a light blue baseball style cap and a gold earring in the right ear. It's wearing a grey hoodie, blue denim jeans, and sneakers. She has an open mouth smile and is holding an open laptop with the GitHub logo.">
 
 📺 Watching movies, anime, and tv  📺 
 
@@ -17,11 +17,5 @@ I am a recent graduate of the Master of [Environmental Data Science program] (ht
 
 ### Education
 
-- Master of Environmental Data Science @ UCSB (current)
-- BA in Environmental Science, Policy, and Justice (2022)
-
-
-
-<!--
-**emmabeamitchell/emmabeamitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- Master of Environmental Data Science @ UCSB (2025)
+- BS in Environmental Science @ UCLA (2024)
